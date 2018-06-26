@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle stars\bin\Debug\Rectangle stars.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle stars\bin\Debug\Rectangle stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle stars\bin\Debug\Rectangle stars.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle stars\obj\Debug\Rectangle stars.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle stars\obj\Debug\Rectangle stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle stars\obj\Debug\Rectangle stars.pdb

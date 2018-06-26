@@ -1,0 +1,25 @@
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\bin\Debug\lekciq 29.11.exe.config
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\bin\Debug\lekciq 29.11.exe
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\bin\Debug\lekciq 29.11.pdb
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form1.resources
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form2.resources
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Properties.Resources.resources
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.csproj.GenerateResource.Cache
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.csproj.CoreCompileInputs.cache
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.exe
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.pdb
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form3.resources
+C:\Users\Ivanov\source\repos\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form4.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\bin\Debug\lekciq 29.11.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\bin\Debug\lekciq 29.11.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\bin\Debug\lekciq 29.11.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form1.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form2.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form3.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form4.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Properties.Resources.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.csproj.GenerateResource.Cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq 29.11.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\lekciq 29.11\obj\Debug\lekciq_29._11.Form5.resources

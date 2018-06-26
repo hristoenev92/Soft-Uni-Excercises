@@ -1,0 +1,5 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\volleyball\bin\Debug\volleyball.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\volleyball\bin\Debug\volleyball.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\volleyball\bin\Debug\volleyball.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\volleyball\obj\Debug\volleyball.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\volleyball\obj\Debug\volleyball.pdb

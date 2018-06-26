@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Index of Letters\bin\Debug\Index of Letters.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Index of Letters\bin\Debug\Index of Letters.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Index of Letters\bin\Debug\Index of Letters.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Index of Letters\obj\Debug\Index of Letters.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Index of Letters\obj\Debug\Index of Letters.pdb

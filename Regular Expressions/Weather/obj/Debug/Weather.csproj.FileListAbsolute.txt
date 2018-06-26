@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Weather\bin\Debug\Weather.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Weather\bin\Debug\Weather.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Weather\bin\Debug\Weather.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Weather\obj\Debug\Weather.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Weather\obj\Debug\Weather.pdb

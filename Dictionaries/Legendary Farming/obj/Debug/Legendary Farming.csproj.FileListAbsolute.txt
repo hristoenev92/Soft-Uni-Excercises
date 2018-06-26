@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Legendary Farming\bin\Debug\Legendary Farming.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Legendary Farming\bin\Debug\Legendary Farming.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Legendary Farming\bin\Debug\Legendary Farming.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Legendary Farming\obj\Debug\Legendary Farming.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Legendary Farming\obj\Debug\Legendary Farming.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\triangle of dollars\bin\Debug\triangle of dollars.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\triangle of dollars\bin\Debug\triangle of dollars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\triangle of dollars\bin\Debug\triangle of dollars.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\triangle of dollars\obj\Debug\triangle of dollars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\triangle of dollars\obj\Debug\triangle of dollars.pdb

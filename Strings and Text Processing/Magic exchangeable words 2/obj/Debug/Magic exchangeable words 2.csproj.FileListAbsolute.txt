@@ -1,0 +1,5 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words 2\bin\Debug\Magic exchangeable words 2.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words 2\bin\Debug\Magic exchangeable words 2.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words 2\bin\Debug\Magic exchangeable words 2.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words 2\obj\Debug\Magic exchangeable words 2.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words 2\obj\Debug\Magic exchangeable words 2.pdb

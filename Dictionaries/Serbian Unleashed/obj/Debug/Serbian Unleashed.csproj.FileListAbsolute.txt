@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Serbian Unleashed\bin\Debug\Serbian Unleashed.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Serbian Unleashed\bin\Debug\Serbian Unleashed.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Serbian Unleashed\bin\Debug\Serbian Unleashed.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Serbian Unleashed\obj\Debug\Serbian Unleashed.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Serbian Unleashed\obj\Debug\Serbian Unleashed.pdb

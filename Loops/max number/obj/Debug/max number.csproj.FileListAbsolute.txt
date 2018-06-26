@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\max number\bin\Debug\max number.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\max number\bin\Debug\max number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\max number\bin\Debug\max number.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\max number\obj\Debug\max number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\max number\obj\Debug\max number.pdb

@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\Convert from Base-10 to Base-N.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\Convert from Base-10 to Base-N.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from Base-10 to Base-N\bin\Debug\Convert from Base-10 to Base-N.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\Convert from Base-10 to Base-N.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\Convert from Base-10 to Base-N.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from Base-10 to Base-N\obj\Debug\Convert from Base-10 to Base-N.pdb

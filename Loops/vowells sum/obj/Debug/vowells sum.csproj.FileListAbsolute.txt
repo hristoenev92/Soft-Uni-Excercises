@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\vowells sum\bin\Debug\vowells sum.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\vowells sum\bin\Debug\vowells sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\vowells sum\bin\Debug\vowells sum.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\vowells sum\obj\Debug\vowells sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\vowells sum\obj\Debug\vowells sum.pdb

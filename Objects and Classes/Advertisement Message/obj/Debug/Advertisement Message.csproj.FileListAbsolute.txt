@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\Advertisement Message.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\Advertisement Message.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\Advertisement Message.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.pdb

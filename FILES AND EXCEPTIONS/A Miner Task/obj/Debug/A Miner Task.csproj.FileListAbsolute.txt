@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\A Miner Task\bin\Debug\A Miner Task.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\A Miner Task\bin\Debug\A Miner Task.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\A Miner Task\bin\Debug\A Miner Task.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\A Miner Task\obj\Debug\A Miner Task.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\A Miner Task\obj\Debug\A Miner Task.pdb

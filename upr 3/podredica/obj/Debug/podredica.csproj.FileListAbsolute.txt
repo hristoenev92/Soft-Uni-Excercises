@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\podredica\bin\Debug\podredica.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\podredica\bin\Debug\podredica.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\podredica\bin\Debug\podredica.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\podredica\obj\Debug\podredica.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\podredica\obj\Debug\podredica.pdb

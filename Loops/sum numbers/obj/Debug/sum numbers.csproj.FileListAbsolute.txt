@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\sum numbers\bin\Debug\sum numbers.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\sum numbers\bin\Debug\sum numbers.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\sum numbers\bin\Debug\sum numbers.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\sum numbers\obj\Debug\sum numbers.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\sum numbers\obj\Debug\sum numbers.pdb

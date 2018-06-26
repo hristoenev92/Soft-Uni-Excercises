@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Inches\bin\Debug\Inches.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Inches\bin\Debug\Inches.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Inches\bin\Debug\Inches.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Inches\obj\Debug\Inches.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Inches\obj\Debug\Inches.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Inches\obj\Debug\Inches.pdb

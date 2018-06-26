@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\diagonal sum\bin\Debug\diagonal sum.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\diagonal sum\bin\Debug\diagonal sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\diagonal sum\bin\Debug\diagonal sum.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\diagonal sum\obj\Debug\diagonal sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\diagonal sum\obj\Debug\diagonal sum.pdb

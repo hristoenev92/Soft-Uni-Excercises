@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle  N Stars\bin\Debug\Rectangle  N Stars.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle  N Stars\bin\Debug\Rectangle  N Stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle  N Stars\bin\Debug\Rectangle  N Stars.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle  N Stars\obj\Debug\Rectangle  N Stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Rectangle  N Stars\obj\Debug\Rectangle  N Stars.pdb

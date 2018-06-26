@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\snowflake\bin\Debug\snowflake.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\snowflake\bin\Debug\snowflake.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\snowflake\bin\Debug\snowflake.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\snowflake\obj\Debug\snowflake.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\snowflake\obj\Debug\snowflake.pdb

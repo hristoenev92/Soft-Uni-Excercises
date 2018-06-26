@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\rechtangle\bin\Debug\rechtangle.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\rechtangle\bin\Debug\rechtangle.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\rechtangle\bin\Debug\rechtangle.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\rechtangle\obj\Debug\rechtangle.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\rechtangle\obj\Debug\rechtangle.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\rechtangle\obj\Debug\rechtangle.pdb

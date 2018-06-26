@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Photo\obj\Debug\Photo.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Photo\bin\Debug\Photo.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Photo\bin\Debug\Photo.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Photo\bin\Debug\Photo.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Photo\obj\Debug\Photo.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Photo\obj\Debug\Photo.pdb

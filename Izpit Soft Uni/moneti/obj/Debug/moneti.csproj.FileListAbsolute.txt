@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\moneti\bin\Debug\moneti.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\moneti\bin\Debug\moneti.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\moneti\bin\Debug\moneti.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\moneti\obj\Debug\moneti.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\moneti\obj\Debug\moneti.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\moneti\obj\Debug\moneti.pdb

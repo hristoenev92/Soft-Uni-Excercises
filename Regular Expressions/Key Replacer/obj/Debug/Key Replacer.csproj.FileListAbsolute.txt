@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer\bin\Debug\Key Replacer.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer\bin\Debug\Key Replacer.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer\bin\Debug\Key Replacer.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer\obj\Debug\Key Replacer.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer\obj\Debug\Key Replacer.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer\obj\Debug\Key Replacer.pdb

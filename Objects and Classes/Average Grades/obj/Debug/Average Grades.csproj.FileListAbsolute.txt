@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\Average Grades.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\Average Grades.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\Average Grades.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\Average Grades.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\Average Grades.pdb

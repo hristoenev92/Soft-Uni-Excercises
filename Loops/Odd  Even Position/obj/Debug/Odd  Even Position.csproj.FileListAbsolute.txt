@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\Odd  Even Position\bin\Debug\Odd  Even Position.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\Odd  Even Position\bin\Debug\Odd  Even Position.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\Odd  Even Position\bin\Debug\Odd  Even Position.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\Odd  Even Position\obj\Debug\Odd  Even Position.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\Odd  Even Position\obj\Debug\Odd  Even Position.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\Odd  Even Position\obj\Debug\Odd  Even Position.pdb

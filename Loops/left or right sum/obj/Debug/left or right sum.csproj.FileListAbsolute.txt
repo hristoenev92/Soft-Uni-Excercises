@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\left or right sum\bin\Debug\left or right sum.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\left or right sum\bin\Debug\left or right sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\left or right sum\bin\Debug\left or right sum.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\left or right sum\obj\Debug\left or right sum.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\left or right sum\obj\Debug\left or right sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\left or right sum\obj\Debug\left or right sum.pdb

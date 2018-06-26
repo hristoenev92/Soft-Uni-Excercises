@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zadacha za karti\bin\Debug\zadacha za karti.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zadacha za karti\bin\Debug\zadacha za karti.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zadacha za karti\bin\Debug\zadacha za karti.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zadacha za karti\obj\Debug\zadacha za karti.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zadacha za karti\obj\Debug\zadacha za karti.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zadacha za karti\obj\Debug\zadacha za karti.pdb

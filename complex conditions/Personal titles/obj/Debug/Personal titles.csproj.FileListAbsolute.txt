@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\Personal titles\bin\Debug\Personal titles.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\Personal titles\bin\Debug\Personal titles.exe
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\Personal titles\bin\Debug\Personal titles.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\Personal titles\obj\Debug\Personal titles.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\Personal titles\obj\Debug\Personal titles.exe
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\Personal titles\obj\Debug\Personal titles.pdb

@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\half sum element\bin\Debug\half sum element.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\half sum element\bin\Debug\half sum element.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\half sum element\bin\Debug\half sum element.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\half sum element\obj\Debug\half sum element.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\half sum element\obj\Debug\half sum element.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Loops\half sum element\obj\Debug\half sum element.pdb

@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Comm\bin\Debug\Hornet Comm.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Comm\bin\Debug\Hornet Comm.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Comm\bin\Debug\Hornet Comm.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Comm\obj\Debug\Hornet Comm.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Comm\obj\Debug\Hornet Comm.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Comm\obj\Debug\Hornet Comm.pdb

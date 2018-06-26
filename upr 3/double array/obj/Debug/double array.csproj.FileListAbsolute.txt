@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\double array\bin\Debug\double array.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\double array\bin\Debug\double array.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\double array\bin\Debug\double array.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\double array\obj\Debug\double array.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\double array\obj\Debug\double array.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\double array\obj\Debug\double array.pdb

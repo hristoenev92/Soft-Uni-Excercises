@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.pdb

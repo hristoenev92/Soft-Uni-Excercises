@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\datetime\bin\Debug\datetime.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\datetime\bin\Debug\datetime.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\datetime\bin\Debug\datetime.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\datetime\obj\Debug\datetime.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\datetime\obj\Debug\datetime.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\datetime\obj\Debug\datetime.pdb

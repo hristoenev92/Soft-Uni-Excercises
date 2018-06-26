@@ -1,0 +1,5 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library Modification\bin\Debug\Book Library Modification.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library Modification\bin\Debug\Book Library Modification.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library Modification\bin\Debug\Book Library Modification.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library Modification\obj\Debug\Book Library Modification.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library Modification\obj\Debug\Book Library Modification.pdb

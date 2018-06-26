@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\cinema\bin\Debug\cinema.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\cinema\bin\Debug\cinema.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\cinema\bin\Debug\cinema.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\cinema\obj\Debug\cinema.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\cinema\obj\Debug\cinema.pdb

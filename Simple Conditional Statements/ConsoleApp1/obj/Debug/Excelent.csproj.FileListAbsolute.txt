@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\Excelent.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

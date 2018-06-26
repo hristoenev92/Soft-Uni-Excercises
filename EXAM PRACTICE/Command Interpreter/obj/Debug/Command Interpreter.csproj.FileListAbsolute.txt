@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\EXAM PRACTICE\Command Interpreter\bin\Debug\Command Interpreter.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\EXAM PRACTICE\Command Interpreter\bin\Debug\Command Interpreter.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\EXAM PRACTICE\Command Interpreter\bin\Debug\Command Interpreter.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\EXAM PRACTICE\Command Interpreter\obj\Debug\Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\EXAM PRACTICE\Command Interpreter\obj\Debug\Command Interpreter.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\EXAM PRACTICE\Command Interpreter\obj\Debug\Command Interpreter.pdb

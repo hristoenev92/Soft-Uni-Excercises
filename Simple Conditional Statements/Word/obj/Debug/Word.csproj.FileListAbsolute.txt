@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Word\bin\Debug\Word.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Word\bin\Debug\Word.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Word\bin\Debug\Word.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Word\obj\Debug\Word.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Word\obj\Debug\Word.pdb

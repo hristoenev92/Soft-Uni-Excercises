@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

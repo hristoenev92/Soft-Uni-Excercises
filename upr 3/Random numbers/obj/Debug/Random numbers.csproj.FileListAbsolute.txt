@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\Random numbers\bin\Debug\Random numbers.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\Random numbers\bin\Debug\Random numbers.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\Random numbers\bin\Debug\Random numbers.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\Random numbers\obj\Debug\Random numbers.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\Random numbers\obj\Debug\Random numbers.pdb

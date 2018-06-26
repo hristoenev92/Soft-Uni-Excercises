@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Population Counter\obj\Debug\Population Counter.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Population Counter\bin\Debug\Population Counter.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Population Counter\bin\Debug\Population Counter.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Population Counter\bin\Debug\Population Counter.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Population Counter\obj\Debug\Population Counter.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Population Counter\obj\Debug\Population Counter.pdb

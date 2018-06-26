@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\stipendiq\bin\Debug\stipendiq.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\stipendiq\bin\Debug\stipendiq.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\stipendiq\bin\Debug\stipendiq.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\stipendiq\obj\Debug\stipendiq.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\stipendiq\obj\Debug\stipendiq.pdb

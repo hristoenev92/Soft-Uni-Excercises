@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library\bin\Debug\Book Library.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library\bin\Debug\Book Library.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library\bin\Debug\Book Library.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library\obj\Debug\Book Library.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library\obj\Debug\Book Library.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library\obj\Debug\Book Library.pdb

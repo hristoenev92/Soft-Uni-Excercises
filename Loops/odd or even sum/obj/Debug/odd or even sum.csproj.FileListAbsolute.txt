@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\odd or even sum\bin\Debug\odd or even sum.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\odd or even sum\bin\Debug\odd or even sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\odd or even sum\bin\Debug\odd or even sum.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\odd or even sum\obj\Debug\odd or even sum.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\odd or even sum\obj\Debug\odd or even sum.pdb

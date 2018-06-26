@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library\bin\Debug\Book Library.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library\bin\Debug\Book Library.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library\bin\Debug\Book Library.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library\obj\Debug\Book Library.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library\obj\Debug\Book Library.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Objects and Classes\Book Library\obj\Debug\Book Library.pdb

@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Character Multiplier\bin\Debug\Character Multiplier.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Character Multiplier\bin\Debug\Character Multiplier.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Character Multiplier\bin\Debug\Character Multiplier.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Character Multiplier\obj\Debug\Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Character Multiplier\obj\Debug\Character Multiplier.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Character Multiplier\obj\Debug\Character Multiplier.pdb

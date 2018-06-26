@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Greater number\bin\Debug\Greater number.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Greater number\bin\Debug\Greater number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Greater number\bin\Debug\Greater number.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Greater number\obj\Debug\Greater number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Greater number\obj\Debug\Greater number.pdb

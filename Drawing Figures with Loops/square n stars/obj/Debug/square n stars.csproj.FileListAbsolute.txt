@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square n stars\bin\Debug\square n stars.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square n stars\bin\Debug\square n stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square n stars\bin\Debug\square n stars.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square n stars\obj\Debug\square n stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square n stars\obj\Debug\square n stars.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square n stars\obj\Debug\square n stars.csprojResolveAssemblyReference.cache

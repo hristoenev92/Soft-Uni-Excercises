@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Odd or Even\bin\Debug\Odd or Even.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Odd or Even\bin\Debug\Odd or Even.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Odd or Even\bin\Debug\Odd or Even.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Odd or Even\obj\Debug\Odd or Even.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Solution1\Odd or Even\obj\Debug\Odd or Even.pdb

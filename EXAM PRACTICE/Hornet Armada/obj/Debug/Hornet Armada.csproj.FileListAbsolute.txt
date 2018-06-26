@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Armada\obj\Debug\Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Armada\bin\Debug\Hornet Armada.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Armada\bin\Debug\Hornet Armada.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Armada\bin\Debug\Hornet Armada.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Armada\obj\Debug\Hornet Armada.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Armada\obj\Debug\Hornet Armada.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\CtoF\bin\Debug\CtoF.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\CtoF\bin\Debug\CtoF.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\CtoF\bin\Debug\CtoF.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\CtoF\obj\Debug\CtoF.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\CtoF\obj\Debug\CtoF.pdb

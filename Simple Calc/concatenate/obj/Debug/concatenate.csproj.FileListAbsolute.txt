@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\concatenate\bin\Debug\concatenate.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\concatenate\bin\Debug\concatenate.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\concatenate\bin\Debug\concatenate.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\concatenate\obj\Debug\concatenate.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\concatenate\obj\Debug\concatenate.pdb

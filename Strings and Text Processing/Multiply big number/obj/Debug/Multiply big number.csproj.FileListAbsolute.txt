@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Multiply big number\bin\Debug\Multiply big number.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Multiply big number\bin\Debug\Multiply big number.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Multiply big number\bin\Debug\Multiply big number.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Multiply big number\obj\Debug\Multiply big number.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Multiply big number\obj\Debug\Multiply big number.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Multiply big number\obj\Debug\Multiply big number.csprojResolveAssemblyReference.cache

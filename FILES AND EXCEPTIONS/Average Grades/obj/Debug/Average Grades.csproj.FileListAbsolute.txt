@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Average Grades\bin\Debug\Average Grades.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Average Grades\bin\Debug\Average Grades.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Average Grades\bin\Debug\Average Grades.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Average Grades\obj\Debug\Average Grades.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Average Grades\obj\Debug\Average Grades.pdb

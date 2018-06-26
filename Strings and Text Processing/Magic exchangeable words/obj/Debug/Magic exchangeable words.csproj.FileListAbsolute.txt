@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words\bin\Debug\Magic exchangeable words.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words\obj\Debug\Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words\obj\Debug\Magic exchangeable words.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Magic exchangeable words\obj\Debug\Magic exchangeable words.pdb

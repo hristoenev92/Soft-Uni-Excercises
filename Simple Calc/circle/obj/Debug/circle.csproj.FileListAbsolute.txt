@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\circle\bin\Debug\circle.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\circle\bin\Debug\circle.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\circle\bin\Debug\circle.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\circle\obj\Debug\circle.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\circle\obj\Debug\circle.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\circle\obj\Debug\circle.pdb

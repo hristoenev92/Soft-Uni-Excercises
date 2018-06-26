@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library Modification\bin\Debug\Book Library Modification.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library Modification\bin\Debug\Book Library Modification.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library Modification\bin\Debug\Book Library Modification.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library Modification\obj\Debug\Book Library Modification.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Book Library Modification\obj\Debug\Book Library Modification.pdb

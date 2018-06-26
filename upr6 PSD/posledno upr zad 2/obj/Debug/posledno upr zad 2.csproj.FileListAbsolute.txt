@@ -1,0 +1,5 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\upr6 PSD\posledno upr zad 2\bin\Debug\posledno upr zad 2.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\upr6 PSD\posledno upr zad 2\bin\Debug\posledno upr zad 2.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\upr6 PSD\posledno upr zad 2\bin\Debug\posledno upr zad 2.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\upr6 PSD\posledno upr zad 2\obj\Debug\posledno upr zad 2.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\upr6 PSD\posledno upr zad 2\obj\Debug\posledno upr zad 2.pdb

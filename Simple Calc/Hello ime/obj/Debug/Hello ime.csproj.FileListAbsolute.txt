@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Hello ime\bin\Debug\Hello ime.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Hello ime\bin\Debug\Hello ime.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Hello ime\bin\Debug\Hello ime.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Hello ime\obj\Debug\Hello ime.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Hello ime\obj\Debug\Hello ime.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Hello ime\obj\Debug\Hello ime.pdb

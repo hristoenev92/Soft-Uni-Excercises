@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\masiv nm\bin\Debug\masiv nm.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\masiv nm\bin\Debug\masiv nm.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\masiv nm\bin\Debug\masiv nm.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\masiv nm\obj\Debug\masiv nm.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\masiv nm\obj\Debug\masiv nm.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\masiv nm\obj\Debug\masiv nm.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\daimond\bin\Debug\daimond.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\daimond\bin\Debug\daimond.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\daimond\bin\Debug\daimond.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\daimond\obj\Debug\daimond.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\daimond\obj\Debug\daimond.pdb

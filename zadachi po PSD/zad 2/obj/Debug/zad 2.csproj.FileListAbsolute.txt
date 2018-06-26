@@ -1,0 +1,8 @@
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\bin\Debug\zad 2.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\bin\Debug\zad 2.exe
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\bin\Debug\zad 2.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\obj\Debug\zad_2.Form1.resources
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\obj\Debug\zad_2.Properties.Resources.resources
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\obj\Debug\zad 2.csproj.GenerateResource.Cache
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\obj\Debug\zad 2.exe
+c:\users\hrist\documents\visual studio 2017\Projects\zadachi po PSD\zad 2\obj\Debug\zad 2.pdb

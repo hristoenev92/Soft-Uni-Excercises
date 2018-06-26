@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\suvpadashti red i kolona\bin\Debug\suvpadashti red i kolona.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\suvpadashti red i kolona\bin\Debug\suvpadashti red i kolona.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\suvpadashti red i kolona\bin\Debug\suvpadashti red i kolona.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\suvpadashti red i kolona\obj\Debug\suvpadashti red i kolona.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\suvpadashti red i kolona\obj\Debug\suvpadashti red i kolona.pdb

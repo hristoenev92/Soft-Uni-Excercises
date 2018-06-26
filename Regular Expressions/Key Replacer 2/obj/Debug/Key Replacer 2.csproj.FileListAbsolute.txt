@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer 2\bin\Debug\Key Replacer 2.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer 2\bin\Debug\Key Replacer 2.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer 2\bin\Debug\Key Replacer 2.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer 2\obj\Debug\Key Replacer 2.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Key Replacer 2\obj\Debug\Key Replacer 2.pdb

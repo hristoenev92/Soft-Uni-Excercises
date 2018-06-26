@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\1to100\bin\Debug\1to100.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\1to100\bin\Debug\1to100.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\1to100\bin\Debug\1to100.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\1to100\obj\Debug\1to100.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\1to100\obj\Debug\1to100.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\1to100\obj\Debug\1to100.pdb

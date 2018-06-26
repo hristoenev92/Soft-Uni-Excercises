@@ -1,0 +1,9 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\bin\Debug\zad 3 samopodgotovka.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\bin\Debug\zad 3 samopodgotovka.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\bin\Debug\zad 3 samopodgotovka.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\obj\Debug\zad 3 samopodgotovka.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\obj\Debug\zad_3_samopodgotovka.Form1.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\obj\Debug\zad_3_samopodgotovka.Properties.Resources.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\obj\Debug\zad 3 samopodgotovka.csproj.GenerateResource.Cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\obj\Debug\zad 3 samopodgotovka.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 3 samopodgotovka\obj\Debug\zad 3 samopodgotovka.pdb

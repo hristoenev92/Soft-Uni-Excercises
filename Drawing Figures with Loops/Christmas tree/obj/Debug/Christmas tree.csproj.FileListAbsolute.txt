@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Christmas tree\bin\Debug\Christmas tree.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Christmas tree\bin\Debug\Christmas tree.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Christmas tree\bin\Debug\Christmas tree.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Christmas tree\obj\Debug\Christmas tree.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\Christmas tree\obj\Debug\Christmas tree.pdb

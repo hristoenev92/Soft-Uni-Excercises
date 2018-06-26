@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\upr 3\bin\Debug\upr 3.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\upr 3\bin\Debug\upr 3.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\upr 3\bin\Debug\upr 3.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\upr 3\obj\Debug\upr 3.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\upr 3\obj\Debug\upr 3.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr 3\upr 3\obj\Debug\upr 3.pdb

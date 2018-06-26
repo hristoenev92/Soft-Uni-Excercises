@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Lists\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\Lists\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Lists\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.pdb

@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\point in rechtangle\bin\Debug\point in rechtangle.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\point in rechtangle\bin\Debug\point in rechtangle.exe
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\point in rechtangle\bin\Debug\point in rechtangle.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\point in rechtangle\obj\Debug\point in rechtangle.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\point in rechtangle\obj\Debug\point in rechtangle.exe
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\point in rechtangle\obj\Debug\point in rechtangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Izpit zad 2\bin\Debug\Izpit zad 2.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Izpit zad 2\bin\Debug\Izpit zad 2.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Izpit zad 2\bin\Debug\Izpit zad 2.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Izpit zad 2\obj\Debug\Izpit zad 2.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Izpit zad 2\obj\Debug\Izpit zad 2.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Izpit zad 2\obj\Debug\Izpit zad 2.pdb

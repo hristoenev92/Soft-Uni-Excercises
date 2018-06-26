@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\invalid\bin\Debug\invalid.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\invalid\bin\Debug\invalid.exe
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\invalid\bin\Debug\invalid.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\invalid\obj\Debug\invalid.exe
+c:\users\hrist\documents\visual studio 2017\Projects\complex conditions\invalid\obj\Debug\invalid.pdb

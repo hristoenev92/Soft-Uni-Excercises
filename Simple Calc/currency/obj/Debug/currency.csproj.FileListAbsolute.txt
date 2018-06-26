@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\currency\bin\Debug\currency.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\currency\bin\Debug\currency.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\currency\bin\Debug\currency.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\currency\obj\Debug\currency.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\currency\obj\Debug\currency.pdb

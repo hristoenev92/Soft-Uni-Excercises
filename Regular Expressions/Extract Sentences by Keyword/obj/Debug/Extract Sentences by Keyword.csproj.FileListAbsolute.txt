@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Extract Sentences by Keyword\bin\Debug\Extract Sentences by Keyword.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Extract Sentences by Keyword\bin\Debug\Extract Sentences by Keyword.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Extract Sentences by Keyword\bin\Debug\Extract Sentences by Keyword.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Extract Sentences by Keyword\obj\Debug\Extract Sentences by Keyword.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Extract Sentences by Keyword\obj\Debug\Extract Sentences by Keyword.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Extract Sentences by Keyword\obj\Debug\Extract Sentences by Keyword.pdb

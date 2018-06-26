@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\formatirane na chisla\formatirane na chisla\bin\Debug\formatirane na chisla.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\formatirane na chisla\formatirane na chisla\bin\Debug\formatirane na chisla.exe
+c:\users\hrist\documents\visual studio 2017\Projects\formatirane na chisla\formatirane na chisla\bin\Debug\formatirane na chisla.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\formatirane na chisla\formatirane na chisla\obj\Debug\formatirane na chisla.exe
+c:\users\hrist\documents\visual studio 2017\Projects\formatirane na chisla\formatirane na chisla\obj\Debug\formatirane na chisla.pdb

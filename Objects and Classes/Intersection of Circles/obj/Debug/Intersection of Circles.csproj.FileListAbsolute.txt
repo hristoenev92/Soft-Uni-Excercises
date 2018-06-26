@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Intersection of Circles\bin\Debug\Intersection of Circles.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Intersection of Circles\bin\Debug\Intersection of Circles.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Intersection of Circles\bin\Debug\Intersection of Circles.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Intersection of Circles\obj\Debug\Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Intersection of Circles\obj\Debug\Intersection of Circles.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Objects and Classes\Intersection of Circles\obj\Debug\Intersection of Circles.pdb

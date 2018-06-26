@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\sunglasses\bin\Debug\sunglasses.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\sunglasses\bin\Debug\sunglasses.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\sunglasses\bin\Debug\sunglasses.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\sunglasses\obj\Debug\sunglasses.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\sunglasses\obj\Debug\sunglasses.pdb

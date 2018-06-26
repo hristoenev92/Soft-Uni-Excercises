@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\trapezoid\bin\Debug\trapezoid.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\trapezoid\bin\Debug\trapezoid.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\trapezoid\bin\Debug\trapezoid.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\trapezoid\obj\Debug\trapezoid.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\trapezoid\obj\Debug\trapezoid.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\trapezoid\obj\Debug\trapezoid.pdb

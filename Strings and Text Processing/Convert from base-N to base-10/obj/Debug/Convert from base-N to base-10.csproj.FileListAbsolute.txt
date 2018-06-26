@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from base-N to base-10\bin\Debug\Convert from base-N to base-10.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from base-N to base-10\bin\Debug\Convert from base-N to base-10.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from base-N to base-10\bin\Debug\Convert from base-N to base-10.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from base-N to base-10\obj\Debug\Convert from base-N to base-10.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Convert from base-N to base-10\obj\Debug\Convert from base-N to base-10.pdb

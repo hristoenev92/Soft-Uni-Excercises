@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Square area\bin\Debug\Square area.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Square area\bin\Debug\Square area.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Square area\bin\Debug\Square area.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Square area\obj\Debug\Square area.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Square area\obj\Debug\Square area.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\Square area\obj\Debug\Square area.pdb

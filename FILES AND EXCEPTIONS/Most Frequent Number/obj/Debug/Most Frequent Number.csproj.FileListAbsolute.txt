@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Most Frequent Number\bin\Debug\Most Frequent Number.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Most Frequent Number\bin\Debug\Most Frequent Number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Most Frequent Number\bin\Debug\Most Frequent Number.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Most Frequent Number\obj\Debug\Most Frequent Number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Most Frequent Number\obj\Debug\Most Frequent Number.pdb

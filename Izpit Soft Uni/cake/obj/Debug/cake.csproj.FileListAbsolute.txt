@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\cake\bin\Debug\cake.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\cake\bin\Debug\cake.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\cake\bin\Debug\cake.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\cake\obj\Debug\cake.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\cake\obj\Debug\cake.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\cake\obj\Debug\cake.pdb

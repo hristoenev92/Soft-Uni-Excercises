@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Letters Change Numbers\bin\Debug\Letters Change Numbers.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Letters Change Numbers\bin\Debug\Letters Change Numbers.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Letters Change Numbers\bin\Debug\Letters Change Numbers.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Letters Change Numbers\obj\Debug\Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Letters Change Numbers\obj\Debug\Letters Change Numbers.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\Strings and Text Processing\Letters Change Numbers\obj\Debug\Letters Change Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Wings\bin\Debug\Hornet Wings.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Wings\bin\Debug\Hornet Wings.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Wings\bin\Debug\Hornet Wings.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Wings\obj\Debug\Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Wings\obj\Debug\Hornet Wings.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Wings\obj\Debug\Hornet Wings.pdb

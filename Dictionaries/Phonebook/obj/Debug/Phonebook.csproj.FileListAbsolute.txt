@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Phonebook\bin\Debug\Phonebook.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Phonebook\bin\Debug\Phonebook.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Phonebook\bin\Debug\Phonebook.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Phonebook\obj\Debug\Phonebook.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Dictionaries\Phonebook\obj\Debug\Phonebook.pdb

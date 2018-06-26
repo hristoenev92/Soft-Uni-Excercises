@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+c:\users\hrist\documents\visual studio 2017\Projects\FILES AND EXCEPTIONS\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

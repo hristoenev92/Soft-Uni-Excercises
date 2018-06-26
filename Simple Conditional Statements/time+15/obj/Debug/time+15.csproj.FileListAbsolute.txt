@@ -1,0 +1,5 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\time+15\bin\Debug\time+15.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\time+15\bin\Debug\time+15.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\time+15\bin\Debug\time+15.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\time+15\obj\Debug\time+15.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\time+15\obj\Debug\time+15.pdb

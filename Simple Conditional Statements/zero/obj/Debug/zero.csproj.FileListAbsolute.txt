@@ -1,0 +1,5 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\zero\bin\Debug\zero.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\zero\bin\Debug\zero.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\zero\bin\Debug\zero.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\zero\obj\Debug\zero.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\zero\obj\Debug\zero.pdb

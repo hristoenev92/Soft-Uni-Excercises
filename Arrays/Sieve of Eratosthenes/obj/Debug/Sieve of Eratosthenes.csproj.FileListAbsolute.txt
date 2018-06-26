@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.pdb

@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Assault\bin\Debug\Hornet Assault.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Assault\bin\Debug\Hornet Assault.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Assault\bin\Debug\Hornet Assault.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Assault\obj\Debug\Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Assault\obj\Debug\Hornet Assault.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\EXAM PRACTICE\Hornet Assault\obj\Debug\Hornet Assault.pdb

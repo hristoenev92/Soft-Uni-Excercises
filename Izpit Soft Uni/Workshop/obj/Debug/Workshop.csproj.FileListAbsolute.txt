@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Workshop\bin\Debug\Workshop.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Workshop\bin\Debug\Workshop.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Workshop\bin\Debug\Workshop.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Workshop\obj\Debug\Workshop.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Izpita\Workshop\obj\Debug\Workshop.pdb

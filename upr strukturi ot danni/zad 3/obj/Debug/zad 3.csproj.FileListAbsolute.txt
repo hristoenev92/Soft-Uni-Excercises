@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\zad 3\bin\Debug\zad 3.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\zad 3\bin\Debug\zad 3.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\zad 3\bin\Debug\zad 3.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\zad 3\obj\Debug\zad 3.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\zad 3\obj\Debug\zad 3.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\zad 3\obj\Debug\zad 3.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\rombus of stars\bin\Debug\rombus of stars.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\rombus of stars\bin\Debug\rombus of stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\rombus of stars\bin\Debug\rombus of stars.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\rombus of stars\obj\Debug\rombus of stars.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\rombus of stars\obj\Debug\rombus of stars.pdb

@@ -1,0 +1,9 @@
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\bin\Debug\zad 1.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\bin\Debug\zad 1.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\bin\Debug\zad 1.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\obj\Debug\zad 1.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\obj\Debug\zad_1.Form1.resources
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\obj\Debug\zad_1.Properties.Resources.resources
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\obj\Debug\zad 1.csproj.GenerateResource.Cache
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\obj\Debug\zad 1.exe
+c:\users\hrist\documents\visual studio 2017\Projects\upr6 PSD\zad 1\obj\Debug\zad 1.pdb

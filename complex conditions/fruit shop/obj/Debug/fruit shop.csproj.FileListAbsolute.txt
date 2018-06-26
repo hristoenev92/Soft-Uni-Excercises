@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\fruit shop\bin\Debug\fruit shop.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\fruit shop\bin\Debug\fruit shop.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\fruit shop\bin\Debug\fruit shop.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\fruit shop\obj\Debug\fruit shop.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\fruit shop\obj\Debug\fruit shop.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\fruit shop\obj\Debug\fruit shop.pdb

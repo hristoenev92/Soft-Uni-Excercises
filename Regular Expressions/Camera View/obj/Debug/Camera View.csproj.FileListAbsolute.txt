@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Camera View\bin\Debug\Camera View.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Camera View\bin\Debug\Camera View.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Camera View\bin\Debug\Camera View.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Camera View\obj\Debug\Camera View.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Camera View\obj\Debug\Camera View.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Regular Expressions\Camera View\obj\Debug\Camera View.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square frame\bin\Debug\square frame.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square frame\bin\Debug\square frame.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square frame\bin\Debug\square frame.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square frame\obj\Debug\square frame.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Drawing Figures with Loops\square frame\obj\Debug\square frame.pdb

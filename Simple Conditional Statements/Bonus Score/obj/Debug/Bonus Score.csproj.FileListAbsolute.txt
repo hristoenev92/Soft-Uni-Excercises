@@ -1,0 +1,5 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Bonus Score\bin\Debug\Bonus Score.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Bonus Score\bin\Debug\Bonus Score.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Bonus Score\bin\Debug\Bonus Score.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Bonus Score\obj\Debug\Bonus Score.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\Solution1\Bonus Score\obj\Debug\Bonus Score.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\USDtoBGN\bin\Debug\USDtoBGN.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\USDtoBGN\bin\Debug\USDtoBGN.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\USDtoBGN\obj\Debug\USDtoBGN.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Simple Calc\USDtoBGN\obj\Debug\USDtoBGN.pdb

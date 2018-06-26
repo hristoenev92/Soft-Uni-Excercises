@@ -1,0 +1,6 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\point in figure\bin\Debug\point in figure.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\point in figure\bin\Debug\point in figure.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\point in figure\bin\Debug\point in figure.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\point in figure\obj\Debug\point in figure.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\point in figure\obj\Debug\point in figure.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\complex conditions\point in figure\obj\Debug\point in figure.pdb

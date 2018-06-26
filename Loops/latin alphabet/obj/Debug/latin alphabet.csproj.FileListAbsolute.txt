@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\latin alphabet\bin\Debug\latin alphabet.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\latin alphabet\bin\Debug\latin alphabet.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\latin alphabet\bin\Debug\latin alphabet.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\latin alphabet\obj\Debug\latin alphabet.exe
+c:\users\hrist\documents\visual studio 2017\Projects\Loops\latin alphabet\obj\Debug\latin alphabet.pdb

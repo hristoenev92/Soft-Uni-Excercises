@@ -1,0 +1,6 @@
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\Parketi\bin\Debug\Parketi.exe.config
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\Parketi\bin\Debug\Parketi.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\Parketi\bin\Debug\Parketi.pdb
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\Parketi\obj\Debug\Parketi.csprojResolveAssemblyReference.cache
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\Parketi\obj\Debug\Parketi.exe
+C:\Users\hrist\documents\visual studio 2017\Projects\upr strukturi ot danni\Parketi\obj\Debug\Parketi.pdb

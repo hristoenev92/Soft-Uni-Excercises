@@ -1,0 +1,8 @@
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\bin\Debug\zad 2 samopodgotovka.exe.config
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\bin\Debug\zad 2 samopodgotovka.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\bin\Debug\zad 2 samopodgotovka.pdb
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\obj\Debug\zad_2_samopodgotovka.Form1.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\obj\Debug\zad_2_samopodgotovka.Properties.Resources.resources
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\obj\Debug\zad 2 samopodgotovka.csproj.GenerateResource.Cache
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\obj\Debug\zad 2 samopodgotovka.exe
+C:\Users\hrist\Documents\Visual Studio 2017\Projects\upr6 PSD\lekciq 29.11\zad 2 samopodgotovka\obj\Debug\zad 2 samopodgotovka.pdb
