@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Fibonacci\bin\Debug\Fibonacci.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Fibonacci\bin\Debug\Fibonacci.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Fibonacci\bin\Debug\Fibonacci.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Fibonacci\obj\Debug\Fibonacci.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Fibonacci\obj\Debug\Fibonacci.pdb

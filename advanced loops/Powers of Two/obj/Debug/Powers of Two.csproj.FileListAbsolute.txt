@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Powers of Two\bin\Debug\Powers of Two.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Powers of Two\bin\Debug\Powers of Two.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Powers of Two\bin\Debug\Powers of Two.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Powers of Two\obj\Debug\Powers of Two.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Powers of Two\obj\Debug\Powers of Two.pdb

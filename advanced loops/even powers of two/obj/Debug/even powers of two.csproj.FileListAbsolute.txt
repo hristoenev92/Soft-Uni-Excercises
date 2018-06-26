@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\even powers of two\bin\Debug\even powers of two.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\even powers of two\bin\Debug\even powers of two.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\even powers of two\bin\Debug\even powers of two.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\even powers of two\obj\Debug\even powers of two.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\even powers of two\obj\Debug\even powers of two.pdb

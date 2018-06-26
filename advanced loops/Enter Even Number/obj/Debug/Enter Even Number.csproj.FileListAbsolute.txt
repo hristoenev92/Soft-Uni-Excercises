@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Enter Even Number\bin\Debug\Enter Even Number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Enter Even Number\bin\Debug\Enter Even Number.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Enter Even Number\obj\Debug\Enter Even Number.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Enter Even Number\obj\Debug\Enter Even Number.pdb

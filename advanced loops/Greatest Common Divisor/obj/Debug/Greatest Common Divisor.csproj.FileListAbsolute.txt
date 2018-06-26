@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.pdb

@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\factoriel\bin\Debug\factoriel.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\factoriel\bin\Debug\factoriel.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\factoriel\bin\Debug\factoriel.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\factoriel\obj\Debug\factoriel.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\factoriel\obj\Debug\factoriel.pdb

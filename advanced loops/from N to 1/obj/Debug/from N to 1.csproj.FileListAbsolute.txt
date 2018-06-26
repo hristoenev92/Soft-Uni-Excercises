@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\from N to 1\bin\Debug\from N to 1.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\from N to 1\bin\Debug\from N to 1.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\from N to 1\bin\Debug\from N to 1.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\from N to 1\obj\Debug\from N to 1.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\from N to 1\obj\Debug\from N to 1.pdb

@@ -1,0 +1,6 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Numbers 1toN\bin\Debug\Numbers 1toN.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Numbers 1toN\bin\Debug\Numbers 1toN.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Numbers 1toN\bin\Debug\Numbers 1toN.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Numbers 1toN\obj\Debug\Numbers 1toN.csprojResolveAssemblyReference.cache
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Numbers 1toN\obj\Debug\Numbers 1toN.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Numbers 1toN\obj\Debug\Numbers 1toN.pdb

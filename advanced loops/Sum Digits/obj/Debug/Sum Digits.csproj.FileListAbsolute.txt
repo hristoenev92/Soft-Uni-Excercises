@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Sum Digits\bin\Debug\Sum Digits.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Sum Digits\bin\Debug\Sum Digits.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Sum Digits\bin\Debug\Sum Digits.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Sum Digits\obj\Debug\Sum Digits.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Sum Digits\obj\Debug\Sum Digits.pdb

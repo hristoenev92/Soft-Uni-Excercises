@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number table\bin\Debug\Number table.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number table\bin\Debug\Number table.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number table\bin\Debug\Number table.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number table\obj\Debug\Number table.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number table\obj\Debug\Number table.pdb

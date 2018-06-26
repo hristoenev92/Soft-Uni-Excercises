@@ -1,0 +1,5 @@
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number Pyramid\bin\Debug\Number Pyramid.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number Pyramid\bin\Debug\Number Pyramid.pdb
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number Pyramid\obj\Debug\Number Pyramid.exe
+c:\users\hrist\documents\visual studio 2017\Projects\advanced loops\Number Pyramid\obj\Debug\Number Pyramid.pdb
